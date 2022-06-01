@@ -12,13 +12,11 @@ homedocs
 jsdoc-template
 api
 package-lock.json
-lib
 src_old
 *.zip
 *_cache
 types
 out.png
-cmj
 
 # Numerous always-ignore extensions
 *.diff

@@ -8,7 +8,7 @@
    * Konva JavaScript Framework v8.3.9
    * http://konvajs.org/
    * Licensed under the MIT
-   * Date: Mon May 30 2022
+   * Date: Wed Jun 01 2022
    *
    * Original work Copyright (C) 2011 - 2013 by Eric Rowell (KineticJS)
    * Modified work Copyright (C) 2014 - present by Anton Lavrenov (Konva)
